@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/images/banner.png" alt="SipraEdu Banner" width="100%">
+  <img src="assets/banner.png" alt="SipraEdu Banner" width="100%">
 </p>
+
 
 # 🎓 SipraEdu Website
 
