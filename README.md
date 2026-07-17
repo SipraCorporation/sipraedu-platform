@@ -158,12 +158,10 @@ sipraedu-website/
 ```
 
 ---
-# 📸 Application Screenshots
-
-## 🏠 Home Page
+## 🏠 Home Hero
 
 <p align="center">
-  <img src="assets/screenshots/home-hero.png" alt="Home Page" width="100%">
+<img src="home-hero.png" width="100%">
 </p>
 
 ---
@@ -171,7 +169,7 @@ sipraedu-website/
 ## ℹ️ About SipraEdu
 
 <p align="center">
-  <img src="assets/screenshots/about.png" alt="About SipraEdu" width="100%">
+<img src="about.png" width="100%">
 </p>
 
 ---
@@ -179,31 +177,31 @@ sipraedu-website/
 ## 🎓 Training Programs
 
 <p align="center">
-  <img src="assets/screenshots/training-programs.png" alt="Training Programs" width="100%">
+<img src="training-programs.png" width="100%">
 </p>
 
 ---
 
-## 📞 Contact Page
+## 📞 Contact
 
 <p align="center">
-  <img src="assets/screenshots/contact.png" alt="Contact Page" width="100%">
+<img src="contact.png" width="100%">
 </p>
 
 ---
 
-## 📍 Contact Information
+## 📍 Contact Details
 
 <p align="center">
-  <img src="assets/screenshots/contact-details.png" alt="Contact Information" width="100%">
+<img src="contact-details.png" width="100%">
 </p>
 
 ---
 
-## 🦶 Website Footer
+## 🦶 Footer
 
 <p align="center">
-  <img src="assets/screenshots/footer.png" alt="Website Footer" width="100%">
+<img src="footer.png" width="100%">
 </p>
 
 ---
